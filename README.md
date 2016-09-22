@@ -29,11 +29,11 @@ Additional Course materials for DS8001
   
   ```sudo rstudio-server restart```
   
-  Now, Check the ip address of the VM using 
+  Now, Check the ip address of the VM using `ifconfig`
   
-  ```ifconfig```  
-  Note the ip address (use the first one) and open a browser on your host machine. user the ip and port 8787 as url to access rStudio 
-  server (i.e. 10.0.2.15:8787)
+  Note the ip address (use the first one) and open a browser on your host machine. use the ip and port 8787 as url to access rStudio 
+  server from the browser (i.e. 10.0.2.15:8787)
 
 
-
+  
+  
