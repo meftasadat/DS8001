@@ -2,7 +2,7 @@
 Additional Course materials for DS8001
 
 # Up and Running with Spark
-You can either use a pre-loaded VM or you build one from scratch. It's also possible to install spark locally in your machine. 
+You can either use a pre-loaded VM or build one from scratch. It's also possible to install spark locally in your machine. 
 ## Using a pre-loaded VM
 1. [Download and Install Virtualbox] (https://www.virtualbox.org/wiki/Downloads "VirtualBox Download Page") (In case, you don't have it installed in your computer)
 2. [Download the Pre-loaded VM] (https://drive.google.com/a/ryerson.ca/file/d/0B0HtI5JG2QR8SkFqV29FUXVzMTQ/view?usp=sharing) (Must be logged in to google drive using your ryerson account) 
