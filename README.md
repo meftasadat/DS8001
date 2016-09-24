@@ -5,7 +5,7 @@ Additional Course materials for DS8001
 You can either use a pre-loaded VM or build one from scratch. It's also possible to install spark locally in your machine. 
 ## Using a pre-loaded VM
 1. [Download and Install Virtualbox] (https://www.virtualbox.org/wiki/Downloads "VirtualBox Download Page") (In case, you don't have it installed in your computer)
-2. [Download the Pre-loaded VM] (https://drive.google.com/a/ryerson.ca/file/d/0B0HtI5JG2QR8SkFqV29FUXVzMTQ/view?usp=sharing) (Must be logged in to google drive using your ryerson account) 
+2. [Download the Pre-loaded VM] (https://drive.google.com/a/ryerson.ca/file/d/0B0HtI5JG2QR8RmNrbHVXVnh1bm8/view?usp=sharing) (Must be logged in to google drive using your ryerson account) 
 3. Open VirtualBox and import the downloaded appliance 
 4. Go to the settings of the VM and set your network adapter. Select Bridged Adapter and your network interface. The following link might help:
   http://www.hacking-tutorial.com/tips-and-trick/how-to-enable-the-network-in-kali-linux-virtual-box/#sthash.HkrupgGD.dpbs
