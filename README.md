@@ -39,7 +39,7 @@ You can either use a pre-loaded VM or build one from scratch. It's also possible
   
   
   
-  -------------------------------------
+-------------------------------------
 ## Building a Ubuntu VM for Spark from scratch
 Download and install Virtualbox
 
